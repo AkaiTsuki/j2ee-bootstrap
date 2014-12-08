@@ -14,5 +14,6 @@
 <h1>Examples List</h1>
 
 <p><a href="/example/helloworld/home">Hello World Using ModelAndView</a></p>
+<p><a href="/example//rest/todoitem/10">Restful API: get item with id=10</a></p>
 </body>
 </html>
